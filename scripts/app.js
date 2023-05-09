@@ -1,2 +1,7 @@
 "use strict";
-console.log("app.js");
+class TvMaze {
+    constructor() {
+        this.viewElems = {}
+    }
+}
+document.addEventListener('DOMContentLoaded', new TvMaze);
