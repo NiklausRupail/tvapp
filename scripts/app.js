@@ -4,4 +4,4 @@ class TvMaze {
         this.viewElems = {}
     }
 }
-document.addEventListener('DOMContentLoaded', new TvMaze);
+document.addEventListener('DOMContentLoaded', new TvMaze); 
